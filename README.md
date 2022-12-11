@@ -7,7 +7,7 @@
 ## I'm a Jr. web dev !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: do more MERN stack && beyond!!!
+- 🥅 2023 Goals: do more MERN stack && beyond!!!
 
 
 ### Connect with me:
