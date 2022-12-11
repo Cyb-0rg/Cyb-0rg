@@ -8,6 +8,10 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: do more MERN stack && beyond!!!
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently working with Java, Python and javascript
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me ibrahimsadudin@gmail.com
 
 
 ### Connect with me:
