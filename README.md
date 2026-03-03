@@ -4,10 +4,10 @@
 [instagram]: https://www.instagram.com/ibraheem_sadudin
 [linkedin]: https://www.linkedin.com/in/ibrahim-sadudin-8216521a8
 
-## I'm a Jr. web dev !!
+## I'm a CS major
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: do more MERN stack && beyond!!!
+- 🥅 2026 Goals: do more MERN stack && beyond!!!
 - 👀 I’m interested in web development and data science
 - 🌱 I’m currently working with Java, Python and javascript
 - 💞️ I’m looking to collaborate on projects
